@@ -33,7 +33,8 @@ Boston house prices dataset
 This is a copy of UCI ML housing dataset.
 https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 
-![image](https://user-images.githubusercontent.com/121180975/209082932-047e1ff0-05de-42c8-825c-c2f81d5e10b9.png)
+![image](https://user-images.githubusercontent.com/121180975/209083062-b575bcb6-5b83-4d28-825b-ca5842f4b04c.png)
+
 
 
 This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University.s
