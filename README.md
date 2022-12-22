@@ -2,7 +2,7 @@
 Machine Learning Regression
 
 
-[](https://github.com/BALAJIHARIDASAN/Statistics/blob/main/giphy.gif)
+![](https://github.com/BALAJIHARIDASAN/Statistics/blob/main/giphy.gif)
   
 ---
 
