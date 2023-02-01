@@ -1,5 +1,5 @@
 Dataset:
-Dataset Link: - Link
+
 We have a train (8523) and test (5681) data set, the train data set has both input and output
 variable(s). We need to predict the sales for the test data set.
 Item_Identifier: Unique product ID
